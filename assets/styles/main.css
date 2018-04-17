@@ -1,0 +1,18 @@
+h1{
+    font-size:2rem;
+    text-align: center;
+    color: white;
+
+}
+
+.header{
+    background: blue;
+}
+
+.inline-block{
+    display:inline-block;
+}
+.content{
+    text-align: justify;
+    display:inline;
+}
